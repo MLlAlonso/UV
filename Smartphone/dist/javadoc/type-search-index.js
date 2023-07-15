@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"android"},{"p":"<Unnamed>","l":"Celular"},{"p":"<Unnamed>","l":"ejecutarSmartphone"},{"p":"<Unnamed>","l":"iOS"}];updateSearchResults();
