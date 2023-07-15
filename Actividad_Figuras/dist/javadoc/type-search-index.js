@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"actividad_figuras","l":"Actividad_Figuras"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"actividad_figuras","l":"Circulo"},{"p":"actividad_figuras","l":"Cuadrado"},{"p":"actividad_figuras","l":"Figura"},{"p":"actividad_figuras","l":"Rectangulo"},{"p":"actividad_figuras","l":"Triangulo"}];updateSearchResults();
