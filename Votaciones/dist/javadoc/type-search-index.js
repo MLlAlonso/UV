@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ejecutaVotaciones"},{"p":"<Unnamed>","l":"MaquinaParaVotaciones"}];updateSearchResults();
